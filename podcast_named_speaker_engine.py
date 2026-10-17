@@ -45,8 +45,18 @@ def identify_podcast_speakers(
     if not model or "claude" in str(model).lower() or "sol" not in str(model).lower():
         model = DEFAULT_MODEL
 
-    # Gather first 150 words of dialogue for intro/names context
-    sample_dialogue = " ".join(w.get("text", "") for w in transcript_words[:250])
+    import itertools
+    # Group words into clean dialogue lines with speaker prefix
+    dialogue_lines = []
+    for spk, grp in itertools.groupby(transcript_words[:350], key=lambda x: x.get("speaker", "speaker_0")):
+        spk_words = [
+            w.get("text", "").strip() for w in grp 
+            if w.get("text", "").strip() and not w.get("text", "").strip().startswith("__")
+        ]
+        if spk_words:
+            dialogue_lines.append(f"{spk}: {' '.join(spk_words)}")
+    sample_dialogue = "\n".join(dialogue_lines[:20])
+
     detected_speakers = sorted(list(set(w.get("speaker", "speaker_0") for w in transcript_words if w.get("speaker"))))
     if not detected_speakers:
         detected_speakers = ["speaker_0", "speaker_1"]
@@ -57,15 +67,14 @@ Context & Metadata:
 {metadata_context}
 
 Intro & Sample Dialogue:
-"{sample_dialogue}"
+{sample_dialogue}
 
 Discovered Speaker IDs: {detected_speakers}
 
 Task:
-1. Identify the real full name and short display tag for each speaker.
-   - For example: if speaker_0 is Joe Rogan, full_name="Joe Rogan", display_tag="ROGAN" or "JOE".
-   - If speaker_1 is Elon Musk, full_name="Elon Musk", display_tag="ELON".
-   - If names are not mentioned or unknown, use "HOST", "GUEST", "CO-HOST".
+1. Identify the real full name and short display tag for each speaker based on who is speaking in the dialogue.
+   - For example: if speaker_0 says "post-SFK" or "dating coach", that is Serena Kerrigan (full_name="Serena Kerrigan", display_tag="SERENA", role="GUEST").
+   - If speaker_1 is the podcast host interviewing, that is Valeria Lipovetsky (full_name="Valeria Lipovetsky", display_tag="VALERIA", role="HOST").
 2. Assign the role: "HOST" or "GUEST".
 3. Return valid JSON matching this schema:
 {{
@@ -110,8 +119,9 @@ Return valid JSON only, no markdown, no explanation.
         with urllib.request.urlopen(req, timeout=45) as resp:
             data = json.loads(resp.read().decode("utf-8"))
         raw_text = data["choices"][0]["message"].get("content", "").strip()
-        raw_text = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw_text, flags=re.I).strip()
-        result = json.loads(raw_text)
+        
+        # Robust JSON extraction from LLM response
+        result = _extract_json_payload(raw_text)
         
         # Ensure all detected speakers are mapped and assign colors
         speakers_map = result.get("speakers", {})
@@ -130,6 +140,17 @@ Return valid JSON only, no markdown, no explanation.
         print(f"[Warning] Speaker identification fallback due to: {e}")
         return _fallback_speakers(detected_speakers)
 
+def _extract_json_payload(raw_text: str) -> dict:
+    if not raw_text:
+        raise ValueError("Empty response from LLM")
+    m = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', raw_text, re.DOTALL)
+    if m:
+        return json.loads(m.group(1))
+    m = re.search(r'(\{.*\})', raw_text, re.DOTALL)
+    if m:
+        return json.loads(m.group(1))
+    return json.loads(raw_text.strip())
+
 def _fallback_speakers(speaker_ids: list[str]) -> dict:
     res = {}
     for idx, spk in enumerate(speaker_ids):
@@ -142,9 +163,17 @@ def _fallback_speakers(speaker_ids: list[str]) -> dict:
     return res
 
 def build_punchy_podcast_chunks(words: list[dict], speaker_map: dict, max_words=3, max_gap=0.35) -> list[dict]:
+    # Filter out whisper/opus audio artifacts like '__silence'
+    valid_words = []
+    for w in words:
+        raw_t = w.get("text", "").strip()
+        if not raw_t or raw_t.startswith("__") or raw_t.lower() in ("silence", "<silence>"):
+            continue
+        valid_words.append(w)
+
     chunks = []
     block = []
-    for w in words:
+    for w in valid_words:
         if block:
             gap = w["start"] - block[-1]["end"]
             speaker_changed = (w.get("speaker") != block[-1].get("speaker"))

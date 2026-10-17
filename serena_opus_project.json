@@ -1,0 +1,62 @@
+{
+  "id": "P3101716rPEk",
+  "sourcePlatform": "YOUTUBE",
+  "sourceId": "YT_WQpoAfnl3p0",
+  "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "WQpoAfnl3p0",
+    "title": "The Real Reason You Keep Attracting the Wrong Men | Serena Kerrigan",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/WQpoAfnl3p0/maxresdefault.webp",
+    "durationMs": 3853416,
+    "publishAt": "2026-10-17T16:53:25.918Z"
+  },
+  "userId": "user_01M4WMBZKTJYNWNNM2QTNTP56Y",
+  "orgId": "org_1k4skc0dav45yA6LyP56Y",
+  "productTier": "PRO",
+  "stage": "QUEUED",
+  "model": "ClipAnything",
+  "isPrivate": false,
+  "importPref": {
+    "hasScreenplay": true,
+    "enableUnifiedGenre": true
+  },
+  "curationPref": {
+    "model": "ClipAnything",
+    "clipDurations": [
+      [
+        60,
+        90
+      ]
+    ],
+    "customPrompt": "Find the best viral, engaging podcast conversation between Valeria and Serena Kerrigan discussing attracting the right partner, confidence, dating standards, and relationships.",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1
+  },
+  "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "enableCaption": false,
+    "enableEmoji": false,
+    "quickstartConfig": {
+      "enableRemoveFillerWords": false
+    },
+    "enableSplitLayout": true,
+    "disableFitBackgroundBlur": false
+  },
+  "storageSize": 0,
+  "storageExpireAt": "2026-11-16T16:53:25.918Z",
+  "storageStatus": "TEMPORARY",
+  "createdAt": "2026-10-17T16:53:25.926Z",
+  "updatedAt": "2026-10-17T16:53:25.927Z",
+  "title": "The Real Reason You Keep Attracting the Wrong Men | Serena Kerrigan",
+  "projectId": "P3101716rPEk",
+  "visibility": "DEFAULT",
+  "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+  ],
+  "promptRecommendations": []
+}

@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PodcastBox,Arial Black,64,&H00FFFFFF&,&H00000000,&H00000000,&H00000000,1,1,0,0,100,100,0,0,3,13,0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.65,0:00:01.61,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I LITERALLY WENT
+Dialogue: 0,0:00:01.73,0:00:03.01,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}ON A PODCAST
+Dialogue: 0,0:00:03.91,0:00:04.79,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}AND I SAID
+Dialogue: 0,0:00:04.83,0:00:05.57,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}TO THE HOST
+Dialogue: 0,0:00:05.57,0:00:05.85,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I
+Dialogue: 0,0:00:06.91,0:00:07.35,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}FEEL LIKE I'M
+Dialogue: 0,0:00:07.41,0:00:07.89,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}TOO MUCH FOR
+Dialogue: 0,0:00:07.95,0:00:08.23,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}MEN
+Dialogue: 0,0:00:08.47,0:00:08.93,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LIKE I H-
+Dialogue: 0,0:00:08.99,0:00:09.59,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I CAN'T FIGURE
+Dialogue: 0,0:00:09.65,0:00:10.09,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}OUT DATING AND
+Dialogue: 0,0:00:10.11,0:00:10.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}THIS IS LIKE
+Dialogue: 0,0:00:10.81,0:00:11.59,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}POST-SFK
+Dialogue: 0,0:00:11.65,0:00:11.97,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}THIS IS WHEN
+Dialogue: 0,0:00:12.01,0:00:12.41,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I'M TRYING TO
+Dialogue: 0,0:00:12.45,0:00:13.17,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LIKE SHOW UP
+Dialogue: 0,0:00:13.21,0:00:13.49,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}AND
+Dialogue: 0,0:00:14.03,0:00:14.31,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I I I
+Dialogue: 0,0:00:14.31,0:00:14.69,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}DIDN'T KNOW WHAT
+Dialogue: 0,0:00:14.73,0:00:15.03,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}WAS WRONG
+Dialogue: 0,0:00:15.07,0:00:15.37,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}AND I SAID
+Dialogue: 0,0:00:15.39,0:00:15.75,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I FEEL LIKE
+Dialogue: 0,0:00:15.81,0:00:16.27,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I'M TOO MUCH
+Dialogue: 0,0:00:16.33,0:00:17.09,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}FOR MEN AND
+Dialogue: 0,0:00:17.15,0:00:17.83,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}THE HOST SAID
+Dialogue: 0,0:00:18.41,0:00:18.85,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}WELL FOR THE
+Dialogue: 0,0:00:18.89,0:00:19.63,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}RIGHT GUY YOU'LL
+Dialogue: 0,0:00:19.65,0:00:20.19,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}BE THE PERFECT
+Dialogue: 0,0:00:20.25,0:00:20.53,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}AMOUNT
+Dialogue: 0,0:00:22.27,0:00:22.89,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I JUST WANNA
+Dialogue: 0,0:00:23.01,0:00:23.29,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}SAY
+Dialogue: 0,0:00:23.69,0:00:24.75,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}THAT THAT VIDEO
+Dialogue: 0,0:00:25.15,0:00:25.73,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I WATCHED IT
+Dialogue: 0,0:00:25.81,0:00:27.03,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}MAYBE 100 TIMES-
+Dialogue: 0,0:00:27.23,0:00:28.01,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}IT'S CRAZY BECAUSE
+Dialogue: 0,0:00:28.01,0:00:28.37,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}THIS IS THE
+Dialogue: 0,0:00:28.45,0:00:28.93,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}SHIT THAT THEY'RE
+Dialogue: 0,0:00:28.99,0:00:30.03,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}TRYING TO RECREATE
+Dialogue: 0,0:00:30.09,0:00:30.93,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}IN LIKE LOVE
+Dialogue: 0,0:00:30.99,0:00:32.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}MOVIES AND ROM-COMS
+Dialogue: 0,0:00:32.89,0:00:33.67,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}AND IT WAS
+Dialogue: 0,0:00:33.71,0:00:34.37,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}PERFECTION
+Dialogue: 0,0:00:34.43,0:00:34.87,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}AND THE FACT
+Dialogue: 0,0:00:34.91,0:00:35.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}THAT YOU HAVE
+Dialogue: 0,0:00:35.51,0:00:36.93,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}THIS AS PROOF
+Dialogue: 0,0:00:37.03,0:00:37.31,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}TO
+Dialogue: 0,0:00:37.87,0:00:38.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}SEE A MAN
+Dialogue: 0,0:00:38.51,0:00:39.91,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}RECOGNIZING AND SEEING
+Dialogue: 0,0:00:39.99,0:00:40.77,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}THAT IN YOU
+Dialogue: 0,0:00:40.83,0:00:41.41,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}AND SAYING IT
+Dialogue: 0,0:00:41.47,0:00:42.05,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}OUT LOUD
+Dialogue: 0,0:00:43.95,0:00:44.91,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}LIKE THAT WAS
+Dialogue: 0,0:00:44.99,0:00:45.59,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}CRAZY
+Dialogue: 0,0:00:45.79,0:00:46.27,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I WANNA KNOW
+Dialogue: 0,0:00:46.31,0:00:46.95,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}HOW YOU FELT
+Dialogue: 0,0:00:47.01,0:00:47.67,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}IN THAT MOMENT
+Dialogue: 0,0:00:47.73,0:00:48.13,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I SAW YOUR
+Dialogue: 0,0:00:48.17,0:00:48.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}FACE
+Dialogue: 0,0:00:48.39,0:00:48.89,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I STILL REMEMBER
+Dialogue: 0,0:00:48.93,0:00:49.21,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}YOUR FACE
+Dialogue: 0,0:00:49.27,0:00:49.89,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}I STILL HAVE
+Dialogue: 0,0:00:49.93,0:00:50.61,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}GOOSEBUMPS
+Dialogue: 0,0:00:51.31,0:00:51.65,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}BUT
+Dialogue: 0,0:00:52.23,0:00:52.89,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}WAS THAT LIKE
+Dialogue: 0,0:00:53.01,0:00:53.93,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}SOMETHING CLICKED FOR
+Dialogue: 0,0:00:53.99,0:00:54.27,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}YOU
+Dialogue: 0,0:00:54.97,0:00:55.67,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I LITERALLY RESPONDED
+Dialogue: 0,0:00:55.69,0:00:56.15,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}ARE YOU HITTING
+Dialogue: 0,0:00:56.19,0:00:56.47,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}ON ME
+Dialogue: 0,0:00:56.55,0:00:57.09,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I'M DOWN
+Dialogue: 0,0:00:57.61,0:00:58.55,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}ARE WE UH
+Dialogue: 0,0:00:58.91,0:00:59.45,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0000D7FF&}VALERIA:\N{\fs64\c&H00FFFFFF&}GETTING MARRIED
+Dialogue: 0,0:00:59.51,0:00:59.97,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:01:00.01,0:01:00.31,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}NO BUT I
+Dialogue: 0,0:01:00.35,0:01:00.83,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LITERALLY WAS JUST
+Dialogue: 0,0:01:00.87,0:01:01.15,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LIKE
+Dialogue: 0,0:01:01.63,0:01:02.18,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}YOU'RE RIGHT
+Dialogue: 0,0:01:03.17,0:01:03.65,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}FOR THE RIGHT
+Dialogue: 0,0:01:03.69,0:01:04.73,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}GUY LIKE YOU'LL
+Dialogue: 0,0:01:04.77,0:01:05.31,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}BE THE PERFECT
+Dialogue: 0,0:01:05.37,0:01:05.71,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}AMOUNT
+Dialogue: 0,0:01:05.75,0:01:06.29,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LIKE THERE'S NO
+Dialogue: 0,0:01:06.33,0:01:06.87,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}SUCH THING AS
+Dialogue: 0,0:01:06.93,0:01:07.91,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}TOO MUCH AND
+Dialogue: 0,0:01:07.97,0:01:08.25,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}LIKE
+Dialogue: 0,0:01:09.21,0:01:09.63,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}I THINK I
+Dialogue: 0,0:01:09.69,0:01:10.67,PodcastBox,,0,0,0,,{\pos(540,1420)}{\fs38\c&H0033FF33&}SERENA:\N{\fs64\c&H00FFFFFF&}FELT REALLY SEEN

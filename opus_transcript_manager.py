@@ -30,7 +30,8 @@ def normalized(data:dict):
             if not isinstance(w,dict) or not all(k in w for k in ('start','end','word')):
                 raise ValueError('BAD_WORD_TIMING')
             st,ed=float(w['start']),float(w['end'])
-            if st<0 or ed<=st:raise ValueError('BAD_WORD_INTERVAL')
+            if st<0 or ed<st:raise ValueError('BAD_WORD_INTERVAL')
+            if ed<=st:ed=st+0.05
             result.append({'start':st,'end':ed,'text':str(w['word']),
                            'speaker':p.get('speaker') or 'unknown'})
     result.sort(key=lambda x:x['start'])

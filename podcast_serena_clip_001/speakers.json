@@ -1,0 +1,14 @@
+{
+  "speaker_0": {
+    "full_name": "Serena Kerrigan",
+    "display_tag": "SERENA",
+    "role": "GUEST",
+    "color": "&H0000D7FF&"
+  },
+  "speaker_1": {
+    "full_name": "Valeria Lipovetsky",
+    "display_tag": "VALERIA",
+    "role": "HOST",
+    "color": "&H0033FF33&"
+  }
+}
