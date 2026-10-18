@@ -1,0 +1,6 @@
+{
+  "openai_base_url": "https://vibi.top/v1",
+  "openai_api_key": "sk-WFyafzvimZ8beqwRwzeLmqmdoVsdFZyKlkvyXbhsJB0w6LOG",
+  "default_model": "gpt-6-astra",
+  "opusclip_api_key": "sk-Wrk0-QcLXwngDbAyfSoNr7PqGYGU5QvKDZh17NhB"
+}

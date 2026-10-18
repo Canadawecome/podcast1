@@ -9,8 +9,8 @@ from podcast_named_speaker_engine import (
     DEFAULT_MODEL
 )
 
-def test_default_model_is_sol():
-    assert DEFAULT_MODEL == "gpt-5.6-sol"
+def test_default_model_is_astra():
+    assert DEFAULT_MODEL == "gpt-6-astra"
 
 def test_fallback_speakers():
     speakers = _fallback_speakers(["speaker_0", "speaker_1"])

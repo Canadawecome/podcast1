@@ -99,7 +99,7 @@ for w in raw_clip_words:
 (OUT_DIR / "clip_transcript.json").write_text(json.dumps({"words": words}, indent=2), encoding="utf-8")
 print(f"Saved {len(words)} aligned words to {OUT_DIR / 'clip_transcript.json'}")
 
-# Run AI Speaker Name Identification with gpt-5.6-sol
+# Run AI Speaker Name Identification with gpt-6-astra
 meta_context = "Podcast: The Real Reason You Keep Attracting the Wrong Men. Host: Valeria Lipovetsky. Guest: Serena Kerrigan (SFK, confidence & dating coach)."
 print(f"Running speaker identification with {DEFAULT_MODEL}...")
 speakers = identify_podcast_speakers(words, metadata_context=meta_context, model=DEFAULT_MODEL)

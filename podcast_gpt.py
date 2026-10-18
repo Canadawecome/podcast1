@@ -17,17 +17,16 @@ from podcast_media import digest
 from podcast_director import transcript
 
 
-DEFAULT_MODEL = 'gpt-5.6-sol'
+DEFAULT_MODEL = 'gpt-6-astra'
+DEFAULT_BASE_URL = 'https://vibi.top/v1'
+DEFAULT_API_KEY = 'sk-WFyafzvimZ8beqwRwzeLmqmdoVsdFZyKlkvyXbhsJB0w6LOG'
 
 def ask(model:str|None=DEFAULT_MODEL,prompt:str='',context:str='',evidence:Path|None=None,max_images:int=12,window:tuple[float,float]|None=None)->dict:
-    # Strictly enforce only model sol 5.6 (no claude models)
     if not model or 'claude' in str(model).lower():
         model = DEFAULT_MODEL
-    elif str(model).strip() not in ('gpt-5.6-sol', 'gpt-5.6-terra', 'gpt-5.6-luna'):
-        model = DEFAULT_MODEL
-    token=os.environ.get('OPENAI_API_KEY')
+    token=os.environ.get('OPENAI_API_KEY') or DEFAULT_API_KEY
     if not token:raise RuntimeError('OPENAI_API_KEY missing; the local spec works without API calls')
-    base_url=os.environ.get('OPENAI_BASE_URL','https://api.openai.com/v1').rstrip('/')
+    base_url=(os.environ.get('OPENAI_BASE_URL') or DEFAULT_BASE_URL).rstrip('/')
     
     selected_frames=[]
     if evidence:

@@ -25,7 +25,9 @@ from opus_range_manager import (
     submit_targeted_opus_project
 )
 
-DEFAULT_MODEL = "gpt-5.6-sol"
+DEFAULT_MODEL = "gpt-6-astra"
+DEFAULT_BASE_URL = "https://vibi.top/v1"
+DEFAULT_API_KEY = "sk-WFyafzvimZ8beqwRwzeLmqmdoVsdFZyKlkvyXbhsJB0w6LOG"
 
 # Signature vibrant neon colors for podcast speakers in ASS BGR format:
 NEON_PALETTE = [
@@ -48,9 +50,9 @@ def identify_podcast_speakers(
     metadata_context: str = "",
     model: str = DEFAULT_MODEL
 ) -> dict:
-    """Uses gpt-5.6-sol to identify the exact names of Host and Guest(s)."""
-    # Enforce only sol-5.6
-    if not model or "claude" in str(model).lower() or "sol" not in str(model).lower():
+    """Uses gpt-6-astra (or sol) to identify the exact names of Host and Guest(s)."""
+    # Fallback to DEFAULT_MODEL if claude or empty
+    if not model or "claude" in str(model).lower():
         model = DEFAULT_MODEL
 
     import itertools
@@ -97,8 +99,8 @@ Task:
 Return valid JSON only, no markdown, no explanation.
 """
 
-    token = os.environ.get("OPENAI_API_KEY")
-    base_url = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+    token = os.environ.get("OPENAI_API_KEY") or DEFAULT_API_KEY
+    base_url = (os.environ.get("OPENAI_BASE_URL") or DEFAULT_BASE_URL).rstrip("/")
     if not token:
         # Fallback without API
         return _fallback_speakers(detected_speakers)
