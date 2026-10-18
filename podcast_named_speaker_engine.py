@@ -17,6 +17,14 @@ FFMPEG_DIR = r"C:\Users\ADMIN\.gemini\antigravity\scratch\local-video-forge\.ven
 if os.path.exists(FFMPEG_DIR) and FFMPEG_DIR not in os.environ.get('PATH', ''):
     os.environ['PATH'] = FFMPEG_DIR + ";" + os.environ['PATH']
 
+from opus_range_manager import (
+    parse_time_range,
+    parse_time_code,
+    estimate_credits,
+    build_targeted_opus_payload,
+    submit_targeted_opus_project
+)
+
 DEFAULT_MODEL = "gpt-5.6-sol"
 
 # Signature vibrant neon colors for podcast speakers in ASS BGR format:
