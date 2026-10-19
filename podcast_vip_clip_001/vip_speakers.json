@@ -1,0 +1,14 @@
+{
+  "speaker_0": {
+    "full_name": "Angela Giarratana",
+    "display_tag": "ANGELA",
+    "role": "GUEST",
+    "color": "&H0000D7FF&"
+  },
+  "speaker_1": {
+    "full_name": "Vic Michaelis",
+    "display_tag": "VIC",
+    "role": "HOST",
+    "color": "&H0033FF33&"
+  }
+}

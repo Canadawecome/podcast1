@@ -1,0 +1,308 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PodcastBox,Arial Black,40,&H00FFFFFF&,&H00000000,&H00000000,&H00000000,1,1,0,0,100,100,0,0,3,10,0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.28,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}VIC
+Dialogue: 0,0:00:00.00,0:00:00.28,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}VIC
+Dialogue: 0,0:00:00.04,0:00:00.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALL RIGHT
+Dialogue: 0,0:00:00.12,0:00:00.40,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS ALL
+Dialogue: 0,0:00:00.05,0:00:00.33,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RIGHT
+Dialogue: 0,0:00:00.10,0:00:00.38,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS ALL
+Dialogue: 0,0:00:00.13,0:00:00.41,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RIGHT
+Dialogue: 0,0:00:00.26,0:00:00.66,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS ANY
+Dialogue: 0,0:00:00.64,0:00:01.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MARRIAGES IN THE
+Dialogue: 0,0:00:01.02,0:00:01.30,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HOUSE
+Dialogue: 0,0:00:01.15,0:00:01.43,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ANY MARRIAGES IN
+Dialogue: 0,0:00:01.27,0:00:01.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE HOUSE
+Dialogue: 0,0:00:01.16,0:00:01.50,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ANY MARRIAGES IN
+Dialogue: 0,0:00:01.45,0:00:01.73,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE HOUSE
+Dialogue: 0,0:00:01.64,0:00:01.98,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WELL I'M
+Dialogue: 0,0:00:01.93,0:00:02.21,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:02.02,0:00:02.36,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I JUST GOT
+Dialogue: 0,0:00:02.31,0:00:02.59,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WELL I'M
+Dialogue: 0,0:00:02.40,0:00:02.68,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:02.42,0:00:02.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I JUST GOT
+Dialogue: 0,0:00:02.32,0:00:02.60,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WELL I'M
+Dialogue: 0,0:00:02.50,0:00:02.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:02.56,0:00:02.84,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I JUST GOT
+Dialogue: 0,0:00:02.73,0:00:03.01,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:02.79,0:00:03.07,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:02.80,0:00:03.35,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DIVORCED
+Dialogue: 0,0:00:03.35,0:00:05.01,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:05.01,0:00:06.67,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:06.67,0:00:06.95,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:06.77,0:00:07.05,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:06.68,0:00:07.23,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:07.23,0:00:07.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:07.78,0:00:08.06,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}INCREDIBLE
+Dialogue: 0,0:00:07.96,0:00:08.51,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}CAN I JUST
+Dialogue: 0,0:00:08.51,0:00:09.06,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAY I AM
+Dialogue: 0,0:00:09.06,0:00:09.39,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SUCH INCREDIBLE
+Dialogue: 0,0:00:09.27,0:00:09.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}CAN I JUST
+Dialogue: 0,0:00:09.34,0:00:09.62,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAY I AM
+Dialogue: 0,0:00:09.42,0:00:09.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SUCH INCREDIBLE
+Dialogue: 0,0:00:09.54,0:00:10.40,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}CAN I JUST
+Dialogue: 0,0:00:10.40,0:00:11.26,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAY I AM
+Dialogue: 0,0:00:11.26,0:00:13.92,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SUCH I'M SORRY
+Dialogue: 0,0:00:13.92,0:00:15.99,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'VE COVID
+Dialogue: 0,0:00:16.00,0:00:17.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OKAY SO MAYBE
+Dialogue: 0,0:00:17.03,0:00:18.07,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}EVERYBODY JUST SORT
+Dialogue: 0,0:00:18.07,0:00:18.59,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OF OKAY SO
+Dialogue: 0,0:00:18.47,0:00:18.75,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MAYBE EVERYBODY JUST
+Dialogue: 0,0:00:18.56,0:00:18.84,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SORT OF OKAY
+Dialogue: 0,0:00:18.62,0:00:19.23,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SO MAYBE EVERYBODY
+Dialogue: 0,0:00:19.23,0:00:19.83,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}JUST SORT OF
+Dialogue: 0,0:00:20.27,0:00:20.96,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOUR VOICE STILL
+Dialogue: 0,0:00:20.96,0:00:21.64,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SOUNDS AS INCREDIBLE
+Dialogue: 0,0:00:21.64,0:00:22.05,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AS YOUR VOICE
+Dialogue: 0,0:00:21.93,0:00:22.21,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STILL SOUNDS AS
+Dialogue: 0,0:00:22.01,0:00:22.29,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}INCREDIBLE AS YOUR
+Dialogue: 0,0:00:21.95,0:00:22.25,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}VOICE STILL SOUNDS
+Dialogue: 0,0:00:22.17,0:00:22.47,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AS INCREDIBLE AS
+Dialogue: 0,0:00:22.40,0:00:22.69,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT DOES ON
+Dialogue: 0,0:00:22.62,0:00:22.91,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALL OF YOUR
+Dialogue: 0,0:00:22.84,0:00:23.12,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RECORDS
+Dialogue: 0,0:00:22.91,0:00:23.19,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT DOES ON
+Dialogue: 0,0:00:23.00,0:00:23.28,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALL OF YOUR
+Dialogue: 0,0:00:23.08,0:00:23.36,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RECORDS
+Dialogue: 0,0:00:22.92,0:00:23.24,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT DOES ON
+Dialogue: 0,0:00:23.17,0:00:23.48,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALL OF YOUR
+Dialogue: 0,0:00:23.42,0:00:23.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RECORDS
+Dialogue: 0,0:00:23.50,0:00:23.82,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THIS IS NICE
+Dialogue: 0,0:00:23.75,0:00:24.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THIS IS NICE
+Dialogue: 0,0:00:23.76,0:00:24.23,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THIS IS NICE
+Dialogue: 0,0:00:24.23,0:00:24.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MY UNCLE BOUGHT
+Dialogue: 0,0:00:24.70,0:00:25.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME A RECORD
+Dialogue: 0,0:00:25.16,0:00:25.63,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}PLAYER AND I
+Dialogue: 0,0:00:25.63,0:00:25.91,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MY UNCLE BOUGHT
+Dialogue: 0,0:00:25.70,0:00:25.98,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME A RECORD
+Dialogue: 0,0:00:25.76,0:00:26.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}PLAYER AND I
+Dialogue: 0,0:00:25.64,0:00:26.15,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MY UNCLE BOUGHT
+Dialogue: 0,0:00:26.15,0:00:26.66,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME A RECORD
+Dialogue: 0,0:00:26.66,0:00:27.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}PLAYER AND I
+Dialogue: 0,0:00:27.16,0:00:27.67,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}USED TO LISTEN
+Dialogue: 0,0:00:27.67,0:00:28.18,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TO YOUR RECORDS
+Dialogue: 0,0:00:28.18,0:00:28.46,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NON-STOP
+Dialogue: 0,0:00:28.35,0:00:28.63,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}USED TO LISTEN
+Dialogue: 0,0:00:28.44,0:00:28.72,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TO YOUR RECORDS
+Dialogue: 0,0:00:28.52,0:00:28.80,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NON-STOP
+Dialogue: 0,0:00:28.36,0:00:28.69,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}USED TO LISTEN
+Dialogue: 0,0:00:28.63,0:00:28.96,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TO YOUR RECORDS
+Dialogue: 0,0:00:28.90,0:00:29.18,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NON-STOP
+Dialogue: 0,0:00:28.99,0:00:29.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THANK YOU SO
+Dialogue: 0,0:00:29.26,0:00:29.59,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MUCH FOR COMING
+Dialogue: 0,0:00:29.53,0:00:29.86,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ON THE THANK
+Dialogue: 0,0:00:29.74,0:00:30.02,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU SO MUCH
+Dialogue: 0,0:00:29.81,0:00:30.09,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR COMING ON
+Dialogue: 0,0:00:29.88,0:00:30.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE THANK YOU
+Dialogue: 0,0:00:29.76,0:00:30.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SO MUCH FOR
+Dialogue: 0,0:00:29.83,0:00:30.11,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}COMING ON THE
+Dialogue: 0,0:00:29.90,0:00:30.18,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:29.75,0:00:30.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:29.76,0:00:30.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:29.92,0:00:30.42,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:30.42,0:00:30.75,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:30.75,0:00:31.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:30.87,0:00:31.15,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:30.76,0:00:31.09,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:31.04,0:00:31.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:31.22,0:00:31.56,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU WATCH THE
+Dialogue: 0,0:00:31.50,0:00:31.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:31.59,0:00:31.87,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU WATCH THE
+Dialogue: 0,0:00:31.74,0:00:32.02,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:31.60,0:00:32.11,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU WATCH THE
+Dialogue: 0,0:00:32.11,0:00:32.39,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:32.28,0:00:32.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I HEARD OF
+Dialogue: 0,0:00:32.78,0:00:33.06,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT
+Dialogue: 0,0:00:32.95,0:00:33.23,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I HEARD OF
+Dialogue: 0,0:00:33.10,0:00:33.38,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT
+Dialogue: 0,0:00:32.96,0:00:33.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I HEARD OF
+Dialogue: 0,0:00:33.27,0:00:33.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT
+Dialogue: 0,0:00:33.38,0:00:33.66,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OKAY
+Dialogue: 0,0:00:33.48,0:00:33.84,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL CUZ WE'VE
+Dialogue: 0,0:00:33.80,0:00:34.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BEEN TRYING TO
+Dialogue: 0,0:00:34.11,0:00:34.39,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OKAY
+Dialogue: 0,0:00:34.14,0:00:34.42,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL CUZ WE'VE
+Dialogue: 0,0:00:34.22,0:00:34.50,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BEEN TRYING TO
+Dialogue: 0,0:00:34.12,0:00:34.40,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OKAY
+Dialogue: 0,0:00:34.18,0:00:34.46,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL CUZ WE'VE
+Dialogue: 0,0:00:34.37,0:00:34.65,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BEEN TRYING TO
+Dialogue: 0,0:00:34.56,0:00:34.84,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TRACK YOU DOWN
+Dialogue: 0,0:00:34.75,0:00:35.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR AN INTERVIEW
+Dialogue: 0,0:00:34.94,0:00:35.22,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR A TRACK
+Dialogue: 0,0:00:35.10,0:00:35.38,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU DOWN FOR
+Dialogue: 0,0:00:35.17,0:00:35.45,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AN INTERVIEW FOR
+Dialogue: 0,0:00:35.24,0:00:35.52,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A TRACK YOU
+Dialogue: 0,0:00:35.24,0:00:35.56,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DOWN FOR AN
+Dialogue: 0,0:00:35.49,0:00:35.80,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}INTERVIEW FOR A
+Dialogue: 0,0:00:35.74,0:00:36.05,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}COUPLE OF YEARS
+Dialogue: 0,0:00:35.98,0:00:36.29,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NOW UH SORT
+Dialogue: 0,0:00:36.23,0:00:36.54,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OF SINCE COUPLE
+Dialogue: 0,0:00:36.42,0:00:36.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OF YEARS NOW
+Dialogue: 0,0:00:36.49,0:00:36.77,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}UH SORT OF
+Dialogue: 0,0:00:36.56,0:00:36.84,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SINCE COUPLE OF
+Dialogue: 0,0:00:36.59,0:00:36.94,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YEARS NOW UH
+Dialogue: 0,0:00:36.88,0:00:37.22,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SORT OF SINCE
+Dialogue: 0,0:00:37.17,0:00:37.45,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE BEGINNING
+Dialogue: 0,0:00:37.36,0:00:37.71,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FIRST GUEST I
+Dialogue: 0,0:00:37.65,0:00:37.93,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAID THE BEGINNING
+Dialogue: 0,0:00:37.82,0:00:38.10,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FIRST GUEST I
+Dialogue: 0,0:00:37.92,0:00:38.20,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAID THE BEGINNING
+Dialogue: 0,0:00:37.82,0:00:38.10,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FIRST GUEST I
+Dialogue: 0,0:00:37.91,0:00:38.19,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SAID LOOK AT
+Dialogue: 0,0:00:38.00,0:00:38.28,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THIS
+Dialogue: 0,0:00:38.03,0:00:38.31,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:38.04,0:00:38.54,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:38.54,0:00:39.05,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WANT FINOLA
+Dialogue: 0,0:00:39.05,0:00:39.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ON THE SHOW
+Dialogue: 0,0:00:39.55,0:00:39.83,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WANT FINOLA
+Dialogue: 0,0:00:39.65,0:00:39.93,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ON THE SHOW
+Dialogue: 0,0:00:39.56,0:00:39.91,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I WANT FINOLA
+Dialogue: 0,0:00:39.86,0:00:40.22,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ON THE SHOW
+Dialogue: 0,0:00:40.17,0:00:40.52,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:40.47,0:00:40.75,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:40.48,0:00:40.96,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:40.96,0:00:41.43,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AND THEY SAID
+Dialogue: 0,0:00:41.44,0:00:41.91,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO NO HE'S
+Dialogue: 0,0:00:41.91,0:00:42.23,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S BUSY
+Dialogue: 0,0:00:42.23,0:00:42.51,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AND THEY SAID
+Dialogue: 0,0:00:42.30,0:00:42.58,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO NO HE'S
+Dialogue: 0,0:00:42.38,0:00:42.66,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S BUSY
+Dialogue: 0,0:00:42.24,0:00:42.62,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AND THEY SAID
+Dialogue: 0,0:00:42.59,0:00:42.97,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO NO HE'S
+Dialogue: 0,0:00:42.93,0:00:43.21,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S BUSY
+Dialogue: 0,0:00:43.16,0:00:43.54,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S NOT INTERESTED
+Dialogue: 0,0:00:43.51,0:00:43.79,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S NOT INTERESTED
+Dialogue: 0,0:00:43.52,0:00:44.22,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HE'S NOT INTERESTED
+Dialogue: 0,0:00:44.22,0:00:44.68,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ANY BIRTHDAYS
+Dialogue: 0,0:00:44.68,0:00:45.15,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BAR MITZVAHS
+Dialogue: 0,0:00:45.15,0:00:45.43,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ANY BIRTHDAYS
+Dialogue: 0,0:00:45.25,0:00:45.53,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BAR MITZVAHS
+Dialogue: 0,0:00:45.16,0:00:45.64,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ANY BIRTHDAYS
+Dialogue: 0,0:00:45.64,0:00:46.12,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BAR MITZVAHS
+Dialogue: 0,0:00:46.12,0:00:46.60,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH OKAY
+Dialogue: 0,0:00:46.60,0:00:46.88,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO
+Dialogue: 0,0:00:46.84,0:00:47.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL I'M 31
+Dialogue: 0,0:00:47.55,0:00:48.27,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NOW BUT UM
+Dialogue: 0,0:00:48.27,0:00:48.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH OKAY
+Dialogue: 0,0:00:48.31,0:00:48.59,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO
+Dialogue: 0,0:00:48.34,0:00:48.62,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL I'M 31
+Dialogue: 0,0:00:48.40,0:00:48.68,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NOW BUT UM
+Dialogue: 0,0:00:48.28,0:00:48.82,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OH OKAY
+Dialogue: 0,0:00:48.82,0:00:49.10,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NO
+Dialogue: 0,0:00:49.10,0:00:49.92,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL I'M 31
+Dialogue: 0,0:00:49.92,0:00:50.73,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NOW BUT UM
+Dialogue: 0,0:00:50.73,0:00:51.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STRANGERS ARE 31
+Dialogue: 0,0:00:51.55,0:00:51.83,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STRANGERS ARE 31
+Dialogue: 0,0:00:51.56,0:00:52.66,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STRANGERS ARE 31
+Dialogue: 0,0:00:52.66,0:00:53.76,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALL LONELY PEOPLE
+Dialogue: 0,0:00:53.76,0:00:54.86,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THEY'RE ALWAYS ON
+Dialogue: 0,0:00:54.86,0:00:55.41,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE ALL LONELY
+Dialogue: 0,0:00:55.29,0:00:55.57,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}PEOPLE THEY'RE ALWAYS
+Dialogue: 0,0:00:55.37,0:00:55.65,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ON THE ALL
+Dialogue: 0,0:00:55.37,0:00:55.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LONELY PEOPLE THEY'RE
+Dialogue: 0,0:00:55.76,0:00:56.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ALWAYS ON THE
+Dialogue: 0,0:00:56.14,0:00:56.42,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RUN
+Dialogue: 0,0:00:56.27,0:00:56.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RUN
+Dialogue: 0,0:00:56.28,0:00:56.64,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}RUN
+Dialogue: 0,0:00:56.64,0:00:57.71,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS BEAUTIFUL
+Dialogue: 0,0:00:57.71,0:00:57.99,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS BEAUTIFUL
+Dialogue: 0,0:00:57.72,0:00:58.20,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WAS BEAUTIFUL
+Dialogue: 0,0:00:58.20,0:00:58.67,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:58.68,0:00:58.99,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:58.99,0:00:59.47,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I NEVER LEAVE
+Dialogue: 0,0:00:59.47,0:00:59.75,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:59.54,0:00:59.82,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:59.60,0:00:59.88,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I NEVER LEAVE
+Dialogue: 0,0:00:59.48,0:00:59.95,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:59.95,0:01:00.26,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:01:00.26,0:01:00.74,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I NEVER LEAVE
+Dialogue: 0,0:01:00.74,0:01:01.21,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}VEGAS AND I'M
+Dialogue: 0,0:01:01.21,0:01:01.68,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SO GRATEFUL YOU
+Dialogue: 0,0:01:01.68,0:01:02.14,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}GUYS HAD VEGAS
+Dialogue: 0,0:01:02.02,0:01:02.30,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}AND I'M SO
+Dialogue: 0,0:01:02.09,0:01:02.37,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}GRATEFUL YOU GUYS
+Dialogue: 0,0:01:02.16,0:01:02.44,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HAD VEGAS AND
+Dialogue: 0,0:01:02.21,0:01:02.57,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I'M SO GRATEFUL
+Dialogue: 0,0:01:02.52,0:01:02.88,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU GUYS HAD
+Dialogue: 0,0:01:02.83,0:01:03.19,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME CUZ I
+Dialogue: 0,0:01:03.14,0:01:03.50,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HEAR YOU NEED
+Dialogue: 0,0:01:03.45,0:01:03.81,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A NEW THEME
+Dialogue: 0,0:01:03.77,0:01:04.05,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SONG
+Dialogue: 0,0:01:03.87,0:01:04.15,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME CUZ I
+Dialogue: 0,0:01:03.93,0:01:04.21,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HEAR YOU NEED
+Dialogue: 0,0:01:03.99,0:01:04.27,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A NEW THEME
+Dialogue: 0,0:01:04.05,0:01:04.33,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SONG
+Dialogue: 0,0:01:03.88,0:01:04.18,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME CUZ I
+Dialogue: 0,0:01:04.10,0:01:04.39,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HEAR YOU NEED
+Dialogue: 0,0:01:04.31,0:01:04.61,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A NEW THEME
+Dialogue: 0,0:01:04.53,0:01:04.81,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SONG
+Dialogue: 0,0:01:04.60,0:01:04.90,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WE WOULD LOVE
+Dialogue: 0,0:01:04.82,0:01:05.11,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A NEW THEME
+Dialogue: 0,0:01:05.04,0:01:05.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SONG WE WOULD
+Dialogue: 0,0:01:05.17,0:01:05.45,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOVE A NEW
+Dialogue: 0,0:01:05.25,0:01:05.53,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THEME SONG WE
+Dialogue: 0,0:01:05.21,0:01:05.54,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WOULD LOVE A
+Dialogue: 0,0:01:05.49,0:01:05.82,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}NEW THEME SONG
+Dialogue: 0,0:01:05.76,0:01:06.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ACTUALLY
+Dialogue: 0,0:01:05.85,0:01:06.18,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WOULD BE
+Dialogue: 0,0:01:06.13,0:01:06.41,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FANTASTIC
+Dialogue: 0,0:01:06.22,0:01:06.50,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WE ACTUALLY
+Dialogue: 0,0:01:06.34,0:01:06.62,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WOULD BE
+Dialogue: 0,0:01:06.44,0:01:06.72,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FANTASTIC
+Dialogue: 0,0:01:06.48,0:01:06.83,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WE ACTUALLY
+Dialogue: 0,0:01:06.42,0:01:06.76,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT WOULD BE
+Dialogue: 0,0:01:06.71,0:01:06.99,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FANTASTIC
+Dialogue: 0,0:01:06.81,0:01:07.16,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WE SORT OF
+Dialogue: 0,0:01:07.10,0:01:07.45,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HAD THE SAME
+Dialogue: 0,0:01:07.40,0:01:07.74,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ONE FOR A
+Dialogue: 0,0:01:07.69,0:01:07.97,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WHILE
+Dialogue: 0,0:01:07.79,0:01:08.07,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SORT OF HAD
+Dialogue: 0,0:01:07.86,0:01:08.14,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE SAME ONE
+Dialogue: 0,0:01:07.92,0:01:08.20,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR A WHILE
+Dialogue: 0,0:01:07.80,0:01:08.10,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SORT OF HAD
+Dialogue: 0,0:01:08.03,0:01:08.33,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE SAME ONE
+Dialogue: 0,0:01:08.26,0:01:08.57,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR A WHILE
+Dialogue: 0,0:01:08.49,0:01:08.80,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}CUZ I DON'T
+Dialogue: 0,0:01:08.72,0:01:09.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DO A LOT
+Dialogue: 0,0:01:08.96,0:01:09.26,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}OF PERSONALITY CUZ
+Dialogue: 0,0:01:09.14,0:01:09.42,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}I DON'T DO
+Dialogue: 0,0:01:09.21,0:01:09.49,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A LOT OF
+Dialogue: 0,0:01:09.28,0:01:09.56,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}PERSONALITY CUZ I
+Dialogue: 0,0:01:09.24,0:01:09.52,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DON'T DO A
+Dialogue: 0,0:01:09.43,0:01:09.71,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}LOT OF PERSONALITY
+Dialogue: 0,0:01:09.61,0:01:09.89,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STUFF
+Dialogue: 0,0:01:09.67,0:01:09.95,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STUFF
+Dialogue: 0,0:01:09.68,0:01:09.96,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}STUFF
+Dialogue: 0,0:01:09.84,0:01:10.32,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}WELL THAT'S SURPRISING
+Dialogue: 0,0:01:10.32,0:01:10.79,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}FOR ME TO
+Dialogue: 0,0:01:10.79,0:01:11.13,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HEAR WELL THAT'S
+Dialogue: 0,0:01:11.01,0:01:11.29,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SURPRISING FOR ME
+Dialogue: 0,0:01:11.09,0:01:11.37,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TO HEAR WELL
+Dialogue: 0,0:01:11.05,0:01:11.38,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THAT'S SURPRISING FOR
+Dialogue: 0,0:01:11.32,0:01:11.65,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}ME TO HEAR
+Dialogue: 0,0:01:11.60,0:01:11.93,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}BECAUSE YOU DID
+Dialogue: 0,0:01:11.87,0:01:12.20,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}HAVE A SHORT-LIVED
+Dialogue: 0,0:01:12.14,0:01:12.42,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}TALK BECAUSE YOU
+Dialogue: 0,0:01:12.29,0:01:12.57,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}DID HAVE A
+Dialogue: 0,0:01:12.37,0:01:12.65,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHORT-LIVED TALK BECAUSE
+Dialogue: 0,0:01:12.30,0:01:12.58,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}YOU DID HAVE
+Dialogue: 0,0:01:12.50,0:01:12.78,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}A SHORT-LIVED TALK
+Dialogue: 0,0:01:12.69,0:01:12.97,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:01:12.75,0:01:13.03,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:01:12.76,0:01:13.04,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:01:13.04,0:01:13.88,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE NETWORK RIPPED
+Dialogue: 0,0:01:13.88,0:01:14.71,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT OUT OF
+Dialogue: 0,0:01:14.71,0:01:15.27,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MY HEART
+Dialogue: 0,0:01:15.27,0:01:15.55,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}THE NETWORK RIPPED
+Dialogue: 0,0:01:15.34,0:01:15.62,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}IT OUT OF
+Dialogue: 0,0:01:15.42,0:01:15.70,PodcastBox,,0,0,0,,{\pos(450,660)}{\fs26\c&H0000D7FF&}VIC:\N{\fs40\c&H00FFFFFF&}MY HEART

@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PodcastBox916,Arial Black,58,&H00FFFFFF&,&H00000000,&H00000000,&H00000000,1,1,0,0,100,100,0,0,3,12,0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.33,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}ALL RIGHT THAT
+Dialogue: 0,0:00:00.22,0:00:00.50,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}WAS
+Dialogue: 0,0:00:00.00,0:00:00.69,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}ANY MARRIAGES IN
+Dialogue: 0,0:00:00.69,0:00:01.15,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}THE HOUSE
+Dialogue: 0,0:00:01.16,0:00:01.67,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}I WELL I'M
+Dialogue: 0,0:00:01.65,0:00:02.16,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}DIVORCED I JUST
+Dialogue: 0,0:00:02.15,0:00:02.43,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}GOT
+Dialogue: 0,0:00:02.80,0:00:04.74,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:04.74,0:00:06.67,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}OH HAPPY DAY
+Dialogue: 0,0:00:06.68,0:00:07.64,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}INCREDIBLE CAN I
+Dialogue: 0,0:00:07.64,0:00:08.60,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}JUST SAY I
+Dialogue: 0,0:00:08.60,0:00:09.24,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}AM SUCH
+Dialogue: 0,0:00:11.84,0:00:14.95,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I'M SORRY I'VE
+Dialogue: 0,0:00:14.95,0:00:16.69,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}COVID OKAY SO
+Dialogue: 0,0:00:16.69,0:00:17.72,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}MAYBE EVERYBODY JUST
+Dialogue: 0,0:00:17.72,0:00:18.41,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}SORT OF
+Dialogue: 0,0:00:20.04,0:00:20.82,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}YOUR VOICE STILL
+Dialogue: 0,0:00:20.82,0:00:21.61,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}SOUNDS AS INCREDIBLE
+Dialogue: 0,0:00:21.61,0:00:21.89,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}AS
+Dialogue: 0,0:00:22.92,0:00:23.75,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}THIS IS NICE
+Dialogue: 0,0:00:23.76,0:00:24.38,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}MY UNCLE BOUGHT
+Dialogue: 0,0:00:24.38,0:00:25.01,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}ME A RECORD
+Dialogue: 0,0:00:25.01,0:00:25.63,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}PLAYER AND I
+Dialogue: 0,0:00:29.76,0:00:30.35,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:30.35,0:00:30.75,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I'M HERE
+Dialogue: 0,0:00:30.76,0:00:31.38,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}YOU WATCH THE
+Dialogue: 0,0:00:31.38,0:00:31.66,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}SHOW
+Dialogue: 0,0:00:31.60,0:00:32.61,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I HEARD OF
+Dialogue: 0,0:00:32.61,0:00:33.30,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}IT OKAY WELL
+Dialogue: 0,0:00:33.29,0:00:33.80,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}CUZ WE'VE BEEN
+Dialogue: 0,0:00:33.78,0:00:34.13,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}TRYING TO
+Dialogue: 0,0:00:37.76,0:00:38.14,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:38.04,0:00:38.80,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I WANT FINOLA
+Dialogue: 0,0:00:38.80,0:00:39.55,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}ON THE SHOW
+Dialogue: 0,0:00:39.56,0:00:40.47,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}LOOK AT THIS
+Dialogue: 0,0:00:40.48,0:00:41.14,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}AND THEY SAID
+Dialogue: 0,0:00:41.14,0:00:41.79,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}NO NO HE'S
+Dialogue: 0,0:00:41.79,0:00:42.23,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}HE'S BUSY
+Dialogue: 0,0:00:43.52,0:00:44.74,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}ANY BIRTHDAYS BAR
+Dialogue: 0,0:00:44.74,0:00:45.85,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}MITZVAHS OH OKAY
+Dialogue: 0,0:00:45.85,0:00:46.89,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}NO WELL I'M
+Dialogue: 0,0:00:46.89,0:00:47.92,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}31 NOW BUT
+Dialogue: 0,0:00:47.92,0:00:50.46,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}UM STRANGERS ARE
+Dialogue: 0,0:00:50.46,0:00:51.55,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}31
+Dialogue: 0,0:00:56.28,0:00:57.71,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}THAT WAS BEAUTIFUL
+Dialogue: 0,0:00:57.72,0:00:58.38,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I CAN'T BELIEVE
+Dialogue: 0,0:00:58.38,0:00:59.03,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}I'M HERE I
+Dialogue: 0,0:00:59.03,0:00:59.47,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}NEVER LEAVE
+Dialogue: 0,0:01:03.88,0:01:04.41,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}WE WOULD LOVE
+Dialogue: 0,0:01:04.41,0:01:04.94,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}A NEW THEME
+Dialogue: 0,0:01:04.93,0:01:05.21,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}SONG
+Dialogue: 0,0:01:07.80,0:01:08.31,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}CUZ I DON'T
+Dialogue: 0,0:01:08.29,0:01:08.80,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}DO A LOT
+Dialogue: 0,0:01:08.78,0:01:09.13,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}OF PERSONALITY
+Dialogue: 0,0:01:09.68,0:01:10.22,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}WELL THAT'S SURPRISING
+Dialogue: 0,0:01:10.22,0:01:10.77,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}FOR ME TO
+Dialogue: 0,0:01:10.77,0:01:11.05,PodcastBox916,,0,0,0,,{\pos(540,1760)}{\fs36\c&H0033FF33&}VIC:\N{\fs58\c&H00FFFFFF&}HEAR
+Dialogue: 0,0:01:12.76,0:01:13.70,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}THE NETWORK RIPPED
+Dialogue: 0,0:01:13.70,0:01:14.64,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}IT OUT OF
+Dialogue: 0,0:01:14.64,0:01:15.46,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}MY HEART AND
+Dialogue: 0,0:01:15.42,0:01:15.88,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}YOU GOT A
+Dialogue: 0,0:01:15.83,0:01:16.15,PodcastBox916,,0,0,0,,{\pos(540,860)}{\fs36\c&H0000D7FF&}FANOLI:\N{\fs58\c&H00FFFFFF&}MIC HERE

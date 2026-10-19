@@ -1,0 +1,2952 @@
+[
+  {
+    "id": "pod_001",
+    "start": 0.0,
+    "end": 0.28,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "VIC"
+  },
+  {
+    "id": "pod_002",
+    "start": 0.0,
+    "end": 0.28,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "VIC"
+  },
+  {
+    "id": "pod_003",
+    "start": 0.04,
+    "end": 0.32,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALL RIGHT"
+  },
+  {
+    "id": "pod_004",
+    "start": 0.12,
+    "end": 0.4,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS ALL"
+  },
+  {
+    "id": "pod_005",
+    "start": 0.05,
+    "end": 0.33,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RIGHT"
+  },
+  {
+    "id": "pod_006",
+    "start": 0.1,
+    "end": 0.38,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS ALL"
+  },
+  {
+    "id": "pod_007",
+    "start": 0.128,
+    "end": 0.408,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RIGHT"
+  },
+  {
+    "id": "pod_008",
+    "start": 0.256,
+    "end": 0.661,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS ANY"
+  },
+  {
+    "id": "pod_009",
+    "start": 0.639,
+    "end": 1.044,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MARRIAGES IN THE"
+  },
+  {
+    "id": "pod_010",
+    "start": 1.022,
+    "end": 1.302,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HOUSE"
+  },
+  {
+    "id": "pod_011",
+    "start": 1.15,
+    "end": 1.43,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ANY MARRIAGES IN"
+  },
+  {
+    "id": "pod_012",
+    "start": 1.27,
+    "end": 1.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE HOUSE"
+  },
+  {
+    "id": "pod_013",
+    "start": 1.16,
+    "end": 1.502,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ANY MARRIAGES IN"
+  },
+  {
+    "id": "pod_014",
+    "start": 1.447,
+    "end": 1.727,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE HOUSE"
+  },
+  {
+    "id": "pod_015",
+    "start": 1.639,
+    "end": 1.981,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WELL I'M"
+  },
+  {
+    "id": "pod_016",
+    "start": 1.927,
+    "end": 2.207,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_017",
+    "start": 2.023,
+    "end": 2.364,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I JUST GOT"
+  },
+  {
+    "id": "pod_018",
+    "start": 2.31,
+    "end": 2.59,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WELL I'M"
+  },
+  {
+    "id": "pod_019",
+    "start": 2.396,
+    "end": 2.676,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_020",
+    "start": 2.424,
+    "end": 2.704,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I JUST GOT"
+  },
+  {
+    "id": "pod_021",
+    "start": 2.32,
+    "end": 2.6,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WELL I'M"
+  },
+  {
+    "id": "pod_022",
+    "start": 2.496,
+    "end": 2.776,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_023",
+    "start": 2.555,
+    "end": 2.835,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I JUST GOT"
+  },
+  {
+    "id": "pod_024",
+    "start": 2.731,
+    "end": 3.011,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_025",
+    "start": 2.79,
+    "end": 3.07,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_026",
+    "start": 2.8,
+    "end": 3.353,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DIVORCED"
+  },
+  {
+    "id": "pod_027",
+    "start": 3.353,
+    "end": 5.012,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_028",
+    "start": 5.011,
+    "end": 6.67,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_029",
+    "start": 6.67,
+    "end": 6.95,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_030",
+    "start": 6.77,
+    "end": 7.05,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_031",
+    "start": 6.68,
+    "end": 7.229,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_032",
+    "start": 7.229,
+    "end": 7.778,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_033",
+    "start": 7.778,
+    "end": 8.058,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "INCREDIBLE"
+  },
+  {
+    "id": "pod_034",
+    "start": 7.961,
+    "end": 8.51,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "CAN I JUST"
+  },
+  {
+    "id": "pod_035",
+    "start": 8.51,
+    "end": 9.059,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAY I AM"
+  },
+  {
+    "id": "pod_036",
+    "start": 9.059,
+    "end": 9.392,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SUCH INCREDIBLE"
+  },
+  {
+    "id": "pod_037",
+    "start": 9.267,
+    "end": 9.547,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "CAN I JUST"
+  },
+  {
+    "id": "pod_038",
+    "start": 9.342,
+    "end": 9.622,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAY I AM"
+  },
+  {
+    "id": "pod_039",
+    "start": 9.417,
+    "end": 9.697,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SUCH INCREDIBLE"
+  },
+  {
+    "id": "pod_040",
+    "start": 9.538,
+    "end": 10.397,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "CAN I JUST"
+  },
+  {
+    "id": "pod_041",
+    "start": 10.398,
+    "end": 11.257,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAY I AM"
+  },
+  {
+    "id": "pod_042",
+    "start": 11.257,
+    "end": 13.916,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SUCH I'M SORRY"
+  },
+  {
+    "id": "pod_043",
+    "start": 13.915,
+    "end": 15.991,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'VE COVID"
+  },
+  {
+    "id": "pod_044",
+    "start": 16.0,
+    "end": 17.034,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OKAY SO MAYBE"
+  },
+  {
+    "id": "pod_045",
+    "start": 17.034,
+    "end": 18.068,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "EVERYBODY JUST SORT"
+  },
+  {
+    "id": "pod_046",
+    "start": 18.067,
+    "end": 18.591,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OF OKAY SO"
+  },
+  {
+    "id": "pod_047",
+    "start": 18.469,
+    "end": 18.749,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MAYBE EVERYBODY JUST"
+  },
+  {
+    "id": "pod_048",
+    "start": 18.555,
+    "end": 18.835,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SORT OF OKAY"
+  },
+  {
+    "id": "pod_049",
+    "start": 18.623,
+    "end": 19.226,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SO MAYBE EVERYBODY"
+  },
+  {
+    "id": "pod_050",
+    "start": 19.226,
+    "end": 19.829,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "JUST SORT OF"
+  },
+  {
+    "id": "pod_051",
+    "start": 20.269,
+    "end": 20.955,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOUR VOICE STILL"
+  },
+  {
+    "id": "pod_052",
+    "start": 20.955,
+    "end": 21.642,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SOUNDS AS INCREDIBLE"
+  },
+  {
+    "id": "pod_053",
+    "start": 21.641,
+    "end": 22.049,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AS YOUR VOICE"
+  },
+  {
+    "id": "pod_054",
+    "start": 21.927,
+    "end": 22.207,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STILL SOUNDS AS"
+  },
+  {
+    "id": "pod_055",
+    "start": 22.013,
+    "end": 22.293,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "INCREDIBLE AS YOUR"
+  },
+  {
+    "id": "pod_056",
+    "start": 21.954,
+    "end": 22.251,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "VOICE STILL SOUNDS"
+  },
+  {
+    "id": "pod_057",
+    "start": 22.174,
+    "end": 22.471,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AS INCREDIBLE AS"
+  },
+  {
+    "id": "pod_058",
+    "start": 22.395,
+    "end": 22.692,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT DOES ON"
+  },
+  {
+    "id": "pod_059",
+    "start": 22.616,
+    "end": 22.913,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALL OF YOUR"
+  },
+  {
+    "id": "pod_060",
+    "start": 22.836,
+    "end": 23.116,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RECORDS"
+  },
+  {
+    "id": "pod_061",
+    "start": 22.91,
+    "end": 23.19,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT DOES ON"
+  },
+  {
+    "id": "pod_062",
+    "start": 22.996,
+    "end": 23.276,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALL OF YOUR"
+  },
+  {
+    "id": "pod_063",
+    "start": 23.081,
+    "end": 23.361,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RECORDS"
+  },
+  {
+    "id": "pod_064",
+    "start": 22.92,
+    "end": 23.236,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT DOES ON"
+  },
+  {
+    "id": "pod_065",
+    "start": 23.169,
+    "end": 23.485,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALL OF YOUR"
+  },
+  {
+    "id": "pod_066",
+    "start": 23.418,
+    "end": 23.698,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RECORDS"
+  },
+  {
+    "id": "pod_067",
+    "start": 23.501,
+    "end": 23.817,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THIS IS NICE"
+  },
+  {
+    "id": "pod_068",
+    "start": 23.75,
+    "end": 24.033,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THIS IS NICE"
+  },
+  {
+    "id": "pod_069",
+    "start": 23.76,
+    "end": 24.228,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THIS IS NICE"
+  },
+  {
+    "id": "pod_070",
+    "start": 24.227,
+    "end": 24.695,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MY UNCLE BOUGHT"
+  },
+  {
+    "id": "pod_071",
+    "start": 24.695,
+    "end": 25.163,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME A RECORD"
+  },
+  {
+    "id": "pod_072",
+    "start": 25.162,
+    "end": 25.63,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "PLAYER AND I"
+  },
+  {
+    "id": "pod_073",
+    "start": 25.63,
+    "end": 25.91,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MY UNCLE BOUGHT"
+  },
+  {
+    "id": "pod_074",
+    "start": 25.697,
+    "end": 25.977,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME A RECORD"
+  },
+  {
+    "id": "pod_075",
+    "start": 25.763,
+    "end": 26.043,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "PLAYER AND I"
+  },
+  {
+    "id": "pod_076",
+    "start": 25.64,
+    "end": 26.148,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MY UNCLE BOUGHT"
+  },
+  {
+    "id": "pod_077",
+    "start": 26.148,
+    "end": 26.656,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME A RECORD"
+  },
+  {
+    "id": "pod_078",
+    "start": 26.656,
+    "end": 27.164,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "PLAYER AND I"
+  },
+  {
+    "id": "pod_079",
+    "start": 27.164,
+    "end": 27.672,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "USED TO LISTEN"
+  },
+  {
+    "id": "pod_080",
+    "start": 27.672,
+    "end": 28.18,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TO YOUR RECORDS"
+  },
+  {
+    "id": "pod_081",
+    "start": 28.181,
+    "end": 28.461,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NON-STOP"
+  },
+  {
+    "id": "pod_082",
+    "start": 28.35,
+    "end": 28.63,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "USED TO LISTEN"
+  },
+  {
+    "id": "pod_083",
+    "start": 28.436,
+    "end": 28.716,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TO YOUR RECORDS"
+  },
+  {
+    "id": "pod_084",
+    "start": 28.521,
+    "end": 28.801,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NON-STOP"
+  },
+  {
+    "id": "pod_085",
+    "start": 28.36,
+    "end": 28.69,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "USED TO LISTEN"
+  },
+  {
+    "id": "pod_086",
+    "start": 28.63,
+    "end": 28.96,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TO YOUR RECORDS"
+  },
+  {
+    "id": "pod_087",
+    "start": 28.9,
+    "end": 29.18,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NON-STOP"
+  },
+  {
+    "id": "pod_088",
+    "start": 28.99,
+    "end": 29.32,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THANK YOU SO"
+  },
+  {
+    "id": "pod_089",
+    "start": 29.26,
+    "end": 29.59,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MUCH FOR COMING"
+  },
+  {
+    "id": "pod_090",
+    "start": 29.53,
+    "end": 29.86,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ON THE THANK"
+  },
+  {
+    "id": "pod_091",
+    "start": 29.735,
+    "end": 30.015,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU SO MUCH"
+  },
+  {
+    "id": "pod_092",
+    "start": 29.81,
+    "end": 30.09,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR COMING ON"
+  },
+  {
+    "id": "pod_093",
+    "start": 29.885,
+    "end": 30.165,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE THANK YOU"
+  },
+  {
+    "id": "pod_094",
+    "start": 29.764,
+    "end": 30.044,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SO MUCH FOR"
+  },
+  {
+    "id": "pod_095",
+    "start": 29.831,
+    "end": 30.111,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "COMING ON THE"
+  },
+  {
+    "id": "pod_096",
+    "start": 29.898,
+    "end": 30.178,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_097",
+    "start": 29.75,
+    "end": 30.03,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_098",
+    "start": 29.76,
+    "end": 30.04,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_099",
+    "start": 29.925,
+    "end": 30.42,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_100",
+    "start": 30.42,
+    "end": 30.75,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_101",
+    "start": 30.75,
+    "end": 31.03,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_102",
+    "start": 30.87,
+    "end": 31.15,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_103",
+    "start": 30.76,
+    "end": 31.094,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_104",
+    "start": 31.037,
+    "end": 31.317,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_105",
+    "start": 31.221,
+    "end": 31.556,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU WATCH THE"
+  },
+  {
+    "id": "pod_106",
+    "start": 31.498,
+    "end": 31.778,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_107",
+    "start": 31.59,
+    "end": 31.87,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU WATCH THE"
+  },
+  {
+    "id": "pod_108",
+    "start": 31.74,
+    "end": 32.02,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_109",
+    "start": 31.6,
+    "end": 32.106,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU WATCH THE"
+  },
+  {
+    "id": "pod_110",
+    "start": 32.106,
+    "end": 32.386,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_111",
+    "start": 32.275,
+    "end": 32.781,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I HEARD OF"
+  },
+  {
+    "id": "pod_112",
+    "start": 32.78,
+    "end": 33.06,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT"
+  },
+  {
+    "id": "pod_113",
+    "start": 32.949,
+    "end": 33.229,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I HEARD OF"
+  },
+  {
+    "id": "pod_114",
+    "start": 33.099,
+    "end": 33.379,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT"
+  },
+  {
+    "id": "pod_115",
+    "start": 32.959,
+    "end": 33.318,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I HEARD OF"
+  },
+  {
+    "id": "pod_116",
+    "start": 33.273,
+    "end": 33.553,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT"
+  },
+  {
+    "id": "pod_117",
+    "start": 33.378,
+    "end": 33.658,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OKAY"
+  },
+  {
+    "id": "pod_118",
+    "start": 33.482,
+    "end": 33.841,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL CUZ WE'VE"
+  },
+  {
+    "id": "pod_119",
+    "start": 33.796,
+    "end": 34.155,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BEEN TRYING TO"
+  },
+  {
+    "id": "pod_120",
+    "start": 34.11,
+    "end": 34.39,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OKAY"
+  },
+  {
+    "id": "pod_121",
+    "start": 34.139,
+    "end": 34.419,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL CUZ WE'VE"
+  },
+  {
+    "id": "pod_122",
+    "start": 34.224,
+    "end": 34.504,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BEEN TRYING TO"
+  },
+  {
+    "id": "pod_123",
+    "start": 34.12,
+    "end": 34.4,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OKAY"
+  },
+  {
+    "id": "pod_124",
+    "start": 34.183,
+    "end": 34.463,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL CUZ WE'VE"
+  },
+  {
+    "id": "pod_125",
+    "start": 34.373,
+    "end": 34.653,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BEEN TRYING TO"
+  },
+  {
+    "id": "pod_126",
+    "start": 34.563,
+    "end": 34.843,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TRACK YOU DOWN"
+  },
+  {
+    "id": "pod_127",
+    "start": 34.753,
+    "end": 35.033,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR AN INTERVIEW"
+  },
+  {
+    "id": "pod_128",
+    "start": 34.943,
+    "end": 35.223,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR A TRACK"
+  },
+  {
+    "id": "pod_129",
+    "start": 35.095,
+    "end": 35.375,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU DOWN FOR"
+  },
+  {
+    "id": "pod_130",
+    "start": 35.17,
+    "end": 35.45,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AN INTERVIEW FOR"
+  },
+  {
+    "id": "pod_131",
+    "start": 35.245,
+    "end": 35.525,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A TRACK YOU"
+  },
+  {
+    "id": "pod_132",
+    "start": 35.244,
+    "end": 35.558,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DOWN FOR AN"
+  },
+  {
+    "id": "pod_133",
+    "start": 35.489,
+    "end": 35.803,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "INTERVIEW FOR A"
+  },
+  {
+    "id": "pod_134",
+    "start": 35.735,
+    "end": 36.049,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "COUPLE OF YEARS"
+  },
+  {
+    "id": "pod_135",
+    "start": 35.981,
+    "end": 36.294,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NOW UH SORT"
+  },
+  {
+    "id": "pod_136",
+    "start": 36.226,
+    "end": 36.54,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OF SINCE COUPLE"
+  },
+  {
+    "id": "pod_137",
+    "start": 36.415,
+    "end": 36.695,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OF YEARS NOW"
+  },
+  {
+    "id": "pod_138",
+    "start": 36.49,
+    "end": 36.77,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "UH SORT OF"
+  },
+  {
+    "id": "pod_139",
+    "start": 36.565,
+    "end": 36.845,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SINCE COUPLE OF"
+  },
+  {
+    "id": "pod_140",
+    "start": 36.593,
+    "end": 36.936,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YEARS NOW UH"
+  },
+  {
+    "id": "pod_141",
+    "start": 36.882,
+    "end": 37.225,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SORT OF SINCE"
+  },
+  {
+    "id": "pod_142",
+    "start": 37.171,
+    "end": 37.451,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE BEGINNING"
+  },
+  {
+    "id": "pod_143",
+    "start": 37.364,
+    "end": 37.707,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FIRST GUEST I"
+  },
+  {
+    "id": "pod_144",
+    "start": 37.654,
+    "end": 37.934,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAID THE BEGINNING"
+  },
+  {
+    "id": "pod_145",
+    "start": 37.817,
+    "end": 38.097,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FIRST GUEST I"
+  },
+  {
+    "id": "pod_146",
+    "start": 37.917,
+    "end": 38.197,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAID THE BEGINNING"
+  },
+  {
+    "id": "pod_147",
+    "start": 37.82,
+    "end": 38.1,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FIRST GUEST I"
+  },
+  {
+    "id": "pod_148",
+    "start": 37.91,
+    "end": 38.19,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SAID LOOK AT"
+  },
+  {
+    "id": "pod_149",
+    "start": 38.0,
+    "end": 38.28,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THIS"
+  },
+  {
+    "id": "pod_150",
+    "start": 38.03,
+    "end": 38.313,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_151",
+    "start": 38.04,
+    "end": 38.544,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_152",
+    "start": 38.543,
+    "end": 39.047,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WANT FINOLA"
+  },
+  {
+    "id": "pod_153",
+    "start": 39.047,
+    "end": 39.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ON THE SHOW"
+  },
+  {
+    "id": "pod_154",
+    "start": 39.55,
+    "end": 39.83,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WANT FINOLA"
+  },
+  {
+    "id": "pod_155",
+    "start": 39.65,
+    "end": 39.93,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ON THE SHOW"
+  },
+  {
+    "id": "pod_156",
+    "start": 39.56,
+    "end": 39.912,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I WANT FINOLA"
+  },
+  {
+    "id": "pod_157",
+    "start": 39.863,
+    "end": 40.216,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ON THE SHOW"
+  },
+  {
+    "id": "pod_158",
+    "start": 40.167,
+    "end": 40.519,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_159",
+    "start": 40.47,
+    "end": 40.753,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_160",
+    "start": 40.48,
+    "end": 40.957,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_161",
+    "start": 40.957,
+    "end": 41.434,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AND THEY SAID"
+  },
+  {
+    "id": "pod_162",
+    "start": 41.435,
+    "end": 41.912,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO NO HE'S"
+  },
+  {
+    "id": "pod_163",
+    "start": 41.912,
+    "end": 42.23,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S BUSY"
+  },
+  {
+    "id": "pod_164",
+    "start": 42.23,
+    "end": 42.51,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AND THEY SAID"
+  },
+  {
+    "id": "pod_165",
+    "start": 42.305,
+    "end": 42.585,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO NO HE'S"
+  },
+  {
+    "id": "pod_166",
+    "start": 42.38,
+    "end": 42.66,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S BUSY"
+  },
+  {
+    "id": "pod_167",
+    "start": 42.24,
+    "end": 42.621,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AND THEY SAID"
+  },
+  {
+    "id": "pod_168",
+    "start": 42.586,
+    "end": 42.967,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO NO HE'S"
+  },
+  {
+    "id": "pod_169",
+    "start": 42.933,
+    "end": 43.213,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S BUSY"
+  },
+  {
+    "id": "pod_170",
+    "start": 43.164,
+    "end": 43.545,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S NOT INTERESTED"
+  },
+  {
+    "id": "pod_171",
+    "start": 43.51,
+    "end": 43.793,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S NOT INTERESTED"
+  },
+  {
+    "id": "pod_172",
+    "start": 43.52,
+    "end": 44.219,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HE'S NOT INTERESTED"
+  },
+  {
+    "id": "pod_173",
+    "start": 44.219,
+    "end": 44.684,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ANY BIRTHDAYS"
+  },
+  {
+    "id": "pod_174",
+    "start": 44.684,
+    "end": 45.15,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BAR MITZVAHS"
+  },
+  {
+    "id": "pod_175",
+    "start": 45.15,
+    "end": 45.43,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ANY BIRTHDAYS"
+  },
+  {
+    "id": "pod_176",
+    "start": 45.25,
+    "end": 45.53,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BAR MITZVAHS"
+  },
+  {
+    "id": "pod_177",
+    "start": 45.16,
+    "end": 45.638,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ANY BIRTHDAYS"
+  },
+  {
+    "id": "pod_178",
+    "start": 45.638,
+    "end": 46.117,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BAR MITZVAHS"
+  },
+  {
+    "id": "pod_179",
+    "start": 46.117,
+    "end": 46.595,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH OKAY"
+  },
+  {
+    "id": "pod_180",
+    "start": 46.595,
+    "end": 46.875,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO"
+  },
+  {
+    "id": "pod_181",
+    "start": 46.835,
+    "end": 47.552,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL I'M 31"
+  },
+  {
+    "id": "pod_182",
+    "start": 47.552,
+    "end": 48.27,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NOW BUT UM"
+  },
+  {
+    "id": "pod_183",
+    "start": 48.27,
+    "end": 48.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH OKAY"
+  },
+  {
+    "id": "pod_184",
+    "start": 48.314,
+    "end": 48.594,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO"
+  },
+  {
+    "id": "pod_185",
+    "start": 48.337,
+    "end": 48.617,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL I'M 31"
+  },
+  {
+    "id": "pod_186",
+    "start": 48.403,
+    "end": 48.683,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NOW BUT UM"
+  },
+  {
+    "id": "pod_187",
+    "start": 48.28,
+    "end": 48.825,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OH OKAY"
+  },
+  {
+    "id": "pod_188",
+    "start": 48.825,
+    "end": 49.105,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NO"
+  },
+  {
+    "id": "pod_189",
+    "start": 49.097,
+    "end": 49.915,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL I'M 31"
+  },
+  {
+    "id": "pod_190",
+    "start": 49.915,
+    "end": 50.733,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NOW BUT UM"
+  },
+  {
+    "id": "pod_191",
+    "start": 50.733,
+    "end": 51.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STRANGERS ARE 31"
+  },
+  {
+    "id": "pod_192",
+    "start": 51.55,
+    "end": 51.833,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STRANGERS ARE 31"
+  },
+  {
+    "id": "pod_193",
+    "start": 51.56,
+    "end": 52.661,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STRANGERS ARE 31"
+  },
+  {
+    "id": "pod_194",
+    "start": 52.661,
+    "end": 53.762,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALL LONELY PEOPLE"
+  },
+  {
+    "id": "pod_195",
+    "start": 53.762,
+    "end": 54.863,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THEY'RE ALWAYS ON"
+  },
+  {
+    "id": "pod_196",
+    "start": 54.863,
+    "end": 55.409,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE ALL LONELY"
+  },
+  {
+    "id": "pod_197",
+    "start": 55.287,
+    "end": 55.567,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "PEOPLE THEY'RE ALWAYS"
+  },
+  {
+    "id": "pod_198",
+    "start": 55.373,
+    "end": 55.653,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ON THE ALL"
+  },
+  {
+    "id": "pod_199",
+    "start": 55.369,
+    "end": 55.776,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LONELY PEOPLE THEY'RE"
+  },
+  {
+    "id": "pod_200",
+    "start": 55.755,
+    "end": 56.162,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ALWAYS ON THE"
+  },
+  {
+    "id": "pod_201",
+    "start": 56.141,
+    "end": 56.421,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RUN"
+  },
+  {
+    "id": "pod_202",
+    "start": 56.27,
+    "end": 56.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RUN"
+  },
+  {
+    "id": "pod_203",
+    "start": 56.28,
+    "end": 56.638,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "RUN"
+  },
+  {
+    "id": "pod_204",
+    "start": 56.637,
+    "end": 57.709,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS BEAUTIFUL"
+  },
+  {
+    "id": "pod_205",
+    "start": 57.71,
+    "end": 57.993,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS BEAUTIFUL"
+  },
+  {
+    "id": "pod_206",
+    "start": 57.72,
+    "end": 58.197,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WAS BEAUTIFUL"
+  },
+  {
+    "id": "pod_207",
+    "start": 58.197,
+    "end": 58.674,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_208",
+    "start": 58.675,
+    "end": 58.993,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_209",
+    "start": 58.993,
+    "end": 59.47,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I NEVER LEAVE"
+  },
+  {
+    "id": "pod_210",
+    "start": 59.47,
+    "end": 59.75,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_211",
+    "start": 59.545,
+    "end": 59.825,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_212",
+    "start": 59.595,
+    "end": 59.875,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I NEVER LEAVE"
+  },
+  {
+    "id": "pod_213",
+    "start": 59.48,
+    "end": 59.951,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_214",
+    "start": 59.951,
+    "end": 60.265,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_215",
+    "start": 60.264,
+    "end": 60.735,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I NEVER LEAVE"
+  },
+  {
+    "id": "pod_216",
+    "start": 60.735,
+    "end": 61.206,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "VEGAS AND I'M"
+  },
+  {
+    "id": "pod_217",
+    "start": 61.206,
+    "end": 61.676,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SO GRATEFUL YOU"
+  },
+  {
+    "id": "pod_218",
+    "start": 61.676,
+    "end": 62.14,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "GUYS HAD VEGAS"
+  },
+  {
+    "id": "pod_219",
+    "start": 62.015,
+    "end": 62.295,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "AND I'M SO"
+  },
+  {
+    "id": "pod_220",
+    "start": 62.09,
+    "end": 62.37,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "GRATEFUL YOU GUYS"
+  },
+  {
+    "id": "pod_221",
+    "start": 62.165,
+    "end": 62.445,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HAD VEGAS AND"
+  },
+  {
+    "id": "pod_222",
+    "start": 62.208,
+    "end": 62.566,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I'M SO GRATEFUL"
+  },
+  {
+    "id": "pod_223",
+    "start": 62.519,
+    "end": 62.877,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU GUYS HAD"
+  },
+  {
+    "id": "pod_224",
+    "start": 62.831,
+    "end": 63.189,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME CUZ I"
+  },
+  {
+    "id": "pod_225",
+    "start": 63.143,
+    "end": 63.501,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HEAR YOU NEED"
+  },
+  {
+    "id": "pod_226",
+    "start": 63.454,
+    "end": 63.812,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A NEW THEME"
+  },
+  {
+    "id": "pod_227",
+    "start": 63.766,
+    "end": 64.046,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SONG"
+  },
+  {
+    "id": "pod_228",
+    "start": 63.87,
+    "end": 64.15,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME CUZ I"
+  },
+  {
+    "id": "pod_229",
+    "start": 63.93,
+    "end": 64.21,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HEAR YOU NEED"
+  },
+  {
+    "id": "pod_230",
+    "start": 63.99,
+    "end": 64.27,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A NEW THEME"
+  },
+  {
+    "id": "pod_231",
+    "start": 64.05,
+    "end": 64.33,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SONG"
+  },
+  {
+    "id": "pod_232",
+    "start": 63.88,
+    "end": 64.175,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME CUZ I"
+  },
+  {
+    "id": "pod_233",
+    "start": 64.097,
+    "end": 64.392,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HEAR YOU NEED"
+  },
+  {
+    "id": "pod_234",
+    "start": 64.314,
+    "end": 64.609,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A NEW THEME"
+  },
+  {
+    "id": "pod_235",
+    "start": 64.531,
+    "end": 64.811,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SONG"
+  },
+  {
+    "id": "pod_236",
+    "start": 64.604,
+    "end": 64.898,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WE WOULD LOVE"
+  },
+  {
+    "id": "pod_237",
+    "start": 64.821,
+    "end": 65.115,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A NEW THEME"
+  },
+  {
+    "id": "pod_238",
+    "start": 65.038,
+    "end": 65.318,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SONG WE WOULD"
+  },
+  {
+    "id": "pod_239",
+    "start": 65.167,
+    "end": 65.447,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOVE A NEW"
+  },
+  {
+    "id": "pod_240",
+    "start": 65.253,
+    "end": 65.533,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THEME SONG WE"
+  },
+  {
+    "id": "pod_241",
+    "start": 65.212,
+    "end": 65.545,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WOULD LOVE A"
+  },
+  {
+    "id": "pod_242",
+    "start": 65.486,
+    "end": 65.819,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "NEW THEME SONG"
+  },
+  {
+    "id": "pod_243",
+    "start": 65.761,
+    "end": 66.041,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ACTUALLY"
+  },
+  {
+    "id": "pod_244",
+    "start": 65.852,
+    "end": 66.185,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WOULD BE"
+  },
+  {
+    "id": "pod_245",
+    "start": 66.127,
+    "end": 66.407,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FANTASTIC"
+  },
+  {
+    "id": "pod_246",
+    "start": 66.218,
+    "end": 66.498,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WE ACTUALLY"
+  },
+  {
+    "id": "pod_247",
+    "start": 66.343,
+    "end": 66.623,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WOULD BE"
+  },
+  {
+    "id": "pod_248",
+    "start": 66.443,
+    "end": 66.723,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FANTASTIC"
+  },
+  {
+    "id": "pod_249",
+    "start": 66.477,
+    "end": 66.827,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WE ACTUALLY"
+  },
+  {
+    "id": "pod_250",
+    "start": 66.418,
+    "end": 66.764,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT WOULD BE"
+  },
+  {
+    "id": "pod_251",
+    "start": 66.712,
+    "end": 66.992,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FANTASTIC"
+  },
+  {
+    "id": "pod_252",
+    "start": 66.81,
+    "end": 67.156,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WE SORT OF"
+  },
+  {
+    "id": "pod_253",
+    "start": 67.104,
+    "end": 67.45,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HAD THE SAME"
+  },
+  {
+    "id": "pod_254",
+    "start": 67.398,
+    "end": 67.744,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ONE FOR A"
+  },
+  {
+    "id": "pod_255",
+    "start": 67.692,
+    "end": 67.972,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WHILE"
+  },
+  {
+    "id": "pod_256",
+    "start": 67.79,
+    "end": 68.07,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SORT OF HAD"
+  },
+  {
+    "id": "pod_257",
+    "start": 67.857,
+    "end": 68.137,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE SAME ONE"
+  },
+  {
+    "id": "pod_258",
+    "start": 67.923,
+    "end": 68.203,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR A WHILE"
+  },
+  {
+    "id": "pod_259",
+    "start": 67.8,
+    "end": 68.104,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SORT OF HAD"
+  },
+  {
+    "id": "pod_260",
+    "start": 68.031,
+    "end": 68.335,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE SAME ONE"
+  },
+  {
+    "id": "pod_261",
+    "start": 68.262,
+    "end": 68.566,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR A WHILE"
+  },
+  {
+    "id": "pod_262",
+    "start": 68.494,
+    "end": 68.798,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "CUZ I DON'T"
+  },
+  {
+    "id": "pod_263",
+    "start": 68.725,
+    "end": 69.029,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DO A LOT"
+  },
+  {
+    "id": "pod_264",
+    "start": 68.956,
+    "end": 69.26,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "OF PERSONALITY CUZ"
+  },
+  {
+    "id": "pod_265",
+    "start": 69.135,
+    "end": 69.415,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "I DON'T DO"
+  },
+  {
+    "id": "pod_266",
+    "start": 69.21,
+    "end": 69.49,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A LOT OF"
+  },
+  {
+    "id": "pod_267",
+    "start": 69.285,
+    "end": 69.565,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "PERSONALITY CUZ I"
+  },
+  {
+    "id": "pod_268",
+    "start": 69.242,
+    "end": 69.522,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DON'T DO A"
+  },
+  {
+    "id": "pod_269",
+    "start": 69.426,
+    "end": 69.706,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "LOT OF PERSONALITY"
+  },
+  {
+    "id": "pod_270",
+    "start": 69.609,
+    "end": 69.889,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STUFF"
+  },
+  {
+    "id": "pod_271",
+    "start": 69.67,
+    "end": 69.95,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STUFF"
+  },
+  {
+    "id": "pod_272",
+    "start": 69.68,
+    "end": 69.96,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "STUFF"
+  },
+  {
+    "id": "pod_273",
+    "start": 69.839,
+    "end": 70.315,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "WELL THAT'S SURPRISING"
+  },
+  {
+    "id": "pod_274",
+    "start": 70.315,
+    "end": 70.791,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "FOR ME TO"
+  },
+  {
+    "id": "pod_275",
+    "start": 70.791,
+    "end": 71.129,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HEAR WELL THAT'S"
+  },
+  {
+    "id": "pod_276",
+    "start": 71.007,
+    "end": 71.287,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SURPRISING FOR ME"
+  },
+  {
+    "id": "pod_277",
+    "start": 71.093,
+    "end": 71.373,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TO HEAR WELL"
+  },
+  {
+    "id": "pod_278",
+    "start": 71.051,
+    "end": 71.382,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THAT'S SURPRISING FOR"
+  },
+  {
+    "id": "pod_279",
+    "start": 71.323,
+    "end": 71.654,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "ME TO HEAR"
+  },
+  {
+    "id": "pod_280",
+    "start": 71.595,
+    "end": 71.926,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "BECAUSE YOU DID"
+  },
+  {
+    "id": "pod_281",
+    "start": 71.867,
+    "end": 72.199,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "HAVE A SHORT-LIVED"
+  },
+  {
+    "id": "pod_282",
+    "start": 72.139,
+    "end": 72.419,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "TALK BECAUSE YOU"
+  },
+  {
+    "id": "pod_283",
+    "start": 72.287,
+    "end": 72.567,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "DID HAVE A"
+  },
+  {
+    "id": "pod_284",
+    "start": 72.373,
+    "end": 72.653,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHORT-LIVED TALK BECAUSE"
+  },
+  {
+    "id": "pod_285",
+    "start": 72.304,
+    "end": 72.584,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "YOU DID HAVE"
+  },
+  {
+    "id": "pod_286",
+    "start": 72.495,
+    "end": 72.775,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "A SHORT-LIVED TALK"
+  },
+  {
+    "id": "pod_287",
+    "start": 72.686,
+    "end": 72.966,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_288",
+    "start": 72.75,
+    "end": 73.03,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_289",
+    "start": 72.76,
+    "end": 73.04,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_290",
+    "start": 73.039,
+    "end": 73.876,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE NETWORK RIPPED"
+  },
+  {
+    "id": "pod_291",
+    "start": 73.876,
+    "end": 74.712,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT OUT OF"
+  },
+  {
+    "id": "pod_292",
+    "start": 74.712,
+    "end": 75.27,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MY HEART"
+  },
+  {
+    "id": "pod_293",
+    "start": 75.27,
+    "end": 75.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "THE NETWORK RIPPED"
+  },
+  {
+    "id": "pod_294",
+    "start": 75.345,
+    "end": 75.625,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "IT OUT OF"
+  },
+  {
+    "id": "pod_295",
+    "start": 75.42,
+    "end": 75.7,
+    "speaker_id": "speaker_0",
+    "display_tag": "VIC",
+    "color": "&H0000D7FF&",
+    "role": "HOST",
+    "text": "MY HEART"
+  }
+]

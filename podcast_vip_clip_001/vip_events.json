@@ -1,0 +1,622 @@
+[
+  {
+    "id": "pod_001",
+    "start": 0.0,
+    "end": 0.33,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "ALL RIGHT THAT"
+  },
+  {
+    "id": "pod_002",
+    "start": 0.225,
+    "end": 0.505,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "WAS"
+  },
+  {
+    "id": "pod_003",
+    "start": 0.0,
+    "end": 0.69,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "ANY MARRIAGES IN"
+  },
+  {
+    "id": "pod_004",
+    "start": 0.69,
+    "end": 1.15,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "THE HOUSE"
+  },
+  {
+    "id": "pod_005",
+    "start": 1.16,
+    "end": 1.669,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "I WELL I'M"
+  },
+  {
+    "id": "pod_006",
+    "start": 1.653,
+    "end": 2.161,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "DIVORCED I JUST"
+  },
+  {
+    "id": "pod_007",
+    "start": 2.146,
+    "end": 2.426,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "GOT"
+  },
+  {
+    "id": "pod_008",
+    "start": 2.8,
+    "end": 4.735,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_009",
+    "start": 4.735,
+    "end": 6.67,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "OH HAPPY DAY"
+  },
+  {
+    "id": "pod_010",
+    "start": 6.68,
+    "end": 7.641,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "INCREDIBLE CAN I"
+  },
+  {
+    "id": "pod_011",
+    "start": 7.641,
+    "end": 8.601,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "JUST SAY I"
+  },
+  {
+    "id": "pod_012",
+    "start": 8.601,
+    "end": 9.242,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "AM SUCH"
+  },
+  {
+    "id": "pod_013",
+    "start": 11.84,
+    "end": 14.953,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I'M SORRY I'VE"
+  },
+  {
+    "id": "pod_014",
+    "start": 14.953,
+    "end": 16.69,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "COVID OKAY SO"
+  },
+  {
+    "id": "pod_015",
+    "start": 16.689,
+    "end": 17.723,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "MAYBE EVERYBODY JUST"
+  },
+  {
+    "id": "pod_016",
+    "start": 17.723,
+    "end": 18.412,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "SORT OF"
+  },
+  {
+    "id": "pod_017",
+    "start": 20.04,
+    "end": 20.824,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "YOUR VOICE STILL"
+  },
+  {
+    "id": "pod_018",
+    "start": 20.824,
+    "end": 21.608,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "SOUNDS AS INCREDIBLE"
+  },
+  {
+    "id": "pod_019",
+    "start": 21.609,
+    "end": 21.889,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "AS"
+  },
+  {
+    "id": "pod_020",
+    "start": 22.92,
+    "end": 23.75,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "THIS IS NICE"
+  },
+  {
+    "id": "pod_021",
+    "start": 23.76,
+    "end": 24.384,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "MY UNCLE BOUGHT"
+  },
+  {
+    "id": "pod_022",
+    "start": 24.383,
+    "end": 25.007,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "ME A RECORD"
+  },
+  {
+    "id": "pod_023",
+    "start": 25.007,
+    "end": 25.63,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "PLAYER AND I"
+  },
+  {
+    "id": "pod_024",
+    "start": 29.76,
+    "end": 30.354,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_025",
+    "start": 30.354,
+    "end": 30.75,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I'M HERE"
+  },
+  {
+    "id": "pod_026",
+    "start": 30.76,
+    "end": 31.383,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "YOU WATCH THE"
+  },
+  {
+    "id": "pod_027",
+    "start": 31.383,
+    "end": 31.663,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "SHOW"
+  },
+  {
+    "id": "pod_028",
+    "start": 31.6,
+    "end": 32.612,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I HEARD OF"
+  },
+  {
+    "id": "pod_029",
+    "start": 32.612,
+    "end": 33.303,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "IT OKAY WELL"
+  },
+  {
+    "id": "pod_030",
+    "start": 33.288,
+    "end": 33.797,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "CUZ WE'VE BEEN"
+  },
+  {
+    "id": "pod_031",
+    "start": 33.781,
+    "end": 34.126,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "TRYING TO"
+  },
+  {
+    "id": "pod_032",
+    "start": 37.76,
+    "end": 38.14,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_033",
+    "start": 38.04,
+    "end": 38.795,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I WANT FINOLA"
+  },
+  {
+    "id": "pod_034",
+    "start": 38.795,
+    "end": 39.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "ON THE SHOW"
+  },
+  {
+    "id": "pod_035",
+    "start": 39.56,
+    "end": 40.47,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "LOOK AT THIS"
+  },
+  {
+    "id": "pod_036",
+    "start": 40.48,
+    "end": 41.137,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "AND THEY SAID"
+  },
+  {
+    "id": "pod_037",
+    "start": 41.136,
+    "end": 41.793,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "NO NO HE'S"
+  },
+  {
+    "id": "pod_038",
+    "start": 41.793,
+    "end": 42.23,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "HE'S BUSY"
+  },
+  {
+    "id": "pod_039",
+    "start": 43.52,
+    "end": 44.742,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "ANY BIRTHDAYS BAR"
+  },
+  {
+    "id": "pod_040",
+    "start": 44.742,
+    "end": 45.852,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "MITZVAHS OH OKAY"
+  },
+  {
+    "id": "pod_041",
+    "start": 45.851,
+    "end": 46.888,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "NO WELL I'M"
+  },
+  {
+    "id": "pod_042",
+    "start": 46.888,
+    "end": 47.925,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "31 NOW BUT"
+  },
+  {
+    "id": "pod_043",
+    "start": 47.924,
+    "end": 50.46,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "UM STRANGERS ARE"
+  },
+  {
+    "id": "pod_044",
+    "start": 50.46,
+    "end": 51.55,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "31"
+  },
+  {
+    "id": "pod_045",
+    "start": 56.28,
+    "end": 57.71,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "THAT WAS BEAUTIFUL"
+  },
+  {
+    "id": "pod_046",
+    "start": 57.72,
+    "end": 58.377,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I CAN'T BELIEVE"
+  },
+  {
+    "id": "pod_047",
+    "start": 58.376,
+    "end": 59.033,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "I'M HERE I"
+  },
+  {
+    "id": "pod_048",
+    "start": 59.033,
+    "end": 59.47,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "NEVER LEAVE"
+  },
+  {
+    "id": "pod_049",
+    "start": 63.88,
+    "end": 64.411,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "WE WOULD LOVE"
+  },
+  {
+    "id": "pod_050",
+    "start": 64.407,
+    "end": 64.939,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "A NEW THEME"
+  },
+  {
+    "id": "pod_051",
+    "start": 64.934,
+    "end": 65.214,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "SONG"
+  },
+  {
+    "id": "pod_052",
+    "start": 67.8,
+    "end": 68.308,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "CUZ I DON'T"
+  },
+  {
+    "id": "pod_053",
+    "start": 68.291,
+    "end": 68.799,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "DO A LOT"
+  },
+  {
+    "id": "pod_054",
+    "start": 68.783,
+    "end": 69.126,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "OF PERSONALITY"
+  },
+  {
+    "id": "pod_055",
+    "start": 69.68,
+    "end": 70.224,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "WELL THAT'S SURPRISING"
+  },
+  {
+    "id": "pod_056",
+    "start": 70.224,
+    "end": 70.768,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "FOR ME TO"
+  },
+  {
+    "id": "pod_057",
+    "start": 70.769,
+    "end": 71.049,
+    "speaker_id": "speaker_1",
+    "display_tag": "VIC",
+    "color": "&H0033FF33&",
+    "role": "HOST",
+    "text": "HEAR"
+  },
+  {
+    "id": "pod_058",
+    "start": 72.76,
+    "end": 73.701,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "THE NETWORK RIPPED"
+  },
+  {
+    "id": "pod_059",
+    "start": 73.701,
+    "end": 74.643,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "IT OUT OF"
+  },
+  {
+    "id": "pod_060",
+    "start": 74.642,
+    "end": 75.46,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "MY HEART AND"
+  },
+  {
+    "id": "pod_061",
+    "start": 75.418,
+    "end": 75.875,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "YOU GOT A"
+  },
+  {
+    "id": "pod_062",
+    "start": 75.833,
+    "end": 76.152,
+    "speaker_id": "speaker_0",
+    "display_tag": "ANGELA",
+    "color": "&H0000D7FF&",
+    "role": "GUEST",
+    "text": "MIC HERE"
+  }
+]
